@@ -1,1 +1,2 @@
-# praktikum-machine-learning
+# JTI Polinema
+Praktikum mata kuliah Machine Learning
